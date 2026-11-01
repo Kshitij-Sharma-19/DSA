@@ -1,0 +1,172 @@
+arrays
+    Average TC
+    accessing nth element : O(1)
+    searching : O(n)
+    Insertion: O(n)
+    Deletion: O(n)
+    Worst TC
+    accessing nth element: O(1)
+    searching: O(n)
+    Deletion: O(n)
+    Space Complexity:
+    O(n)
+
+stacks:
+    Average TC
+    accessing nth element: O(n)
+    searching: O(n)
+    Insertion: O(1)
+    Deletion: O(1)
+    Worst TC
+    accessing nth  element: O(n)
+    searching: O(n)
+    Insertion: O(1)
+    Deletion: O(1)
+    Space Complexity: O(n)
+
+queues:
+    Average TC:
+    accessing the nth element: O(n)
+    searching: O(n)
+    Insertion: O(1)
+    Deletion: O(1)
+    Worst TC:
+    accessing nth element: O(n)
+    searching: O(n)
+    Insertion: O(1)
+    Deletion: O(1)
+    Space Complexity: O(n)
+
+Binary Trees:
+    Average TC-->
+    accessing nth element: O(n)
+    searching: O(n)
+    Insertion: O(n)
+    Deletion: O(n)
+    Worst TC-->
+    accessing nth element: O(n)
+    searching: O(n)
+    Insertion: O(n)
+    Deletion: O(n)
+    Space Complexity: O(n)
+
+Binary Search Tree:
+    Average TC:
+    accessing nth element: O(logn)
+    searching: O(logn)
+    Insertion: O(logn)
+    Deletion: O(logn)
+    Worst TC:
+    accessing nth element: O(n)
+    searching: O(n)
+    Insertion: O(n)
+    Deletion: O(n)
+    Space Complexity: O(n)
+
+Balanced Binary Search Tree
+        Average TC:
+        accessing nth element: O(logn)
+        searching: O(logn)
+        Insertion: O(logn)
+        Deletion: O(logn)
+        Worst TC:
+        accessing nth element: O(logn)
+        searching: O(logn)
+        Insertion: O(logn)
+        Deletion: O(logn)
+        Space Complexity: O(logn)
+
+Hash Tables:
+    Average TC:
+    accessing nth element: N/A
+    searching: O(1)
+    Insertion: O(1)
+    Deletion: O(1)
+    Worst TC:
+    accessing nth element: N/A 
+    searching: O(n)
+    Insertion: O(n)
+    Deletion: O(n)
+    Space Complexity: O(n)
+
+Best Time Complexity is O(1)
+
+
+Sorting Algorithms:
+    Bubble Sort 
+        Best Case: O(n)
+        Average Case: O(n2)
+        Worst Case: O(n2)
+        Space Complexity: O(1)
+        Is stable: Yes
+        Type: Comparison
+    Insertion Sort
+        Best Case: O(n)
+        Average Case: O(n2)
+        Worst Case: O(n2)
+        Space Complexity: O(1)
+        Is stable: Yes
+        Type: Comparison
+    Selection Sort
+        Best Case: O(n2)
+        Average Case: O(n2)
+        Worst Case: O(n2)
+        Space Complexity: O(1)
+        is stable: Yes
+        Type: Comparison
+    Merge Sort:
+        Best Case: O(nlogn)
+        Average Case: O(nlogn)
+        Worst Case: O(nlogn)
+        Space Complexity: O(n)
+        is stable: Yes
+        Type: Comparison
+    Heap Sort:
+        Best Case: O(nlogn)
+        Average Case: O(nlogn)
+        Worst Case: O(nlogn)
+        Space Complexity: O(1)
+        is stable: No
+        Type: Comparison
+    Quick Sort
+        Best Case: O(nlogn)
+        Average Case:O(nlogn)
+        Worst Case: O(n2)
+        Space Complexity: O(logn)
+        is stable: No
+        Type: Comparison
+    Tree Sort:  
+        Best Case: O(nlogn)
+        Average Case: O(nlogn)
+        Worst Case: O(n2)
+        Space Complexity: O(n)
+        Is stable: Yes
+        Type: Comparison
+
+    Counting Sort:
+        Best Case: O(n+k)
+        Average Case: O(n+k)
+        Worst Case: O(n+k)
+        Space Complexity: O(k)
+        is stable: Yes
+        Type: Linear
+        where k is the range of key values
+    
+    Bucket Sort
+        Best Case: O(n+k)
+        Average Case: O(n+k)
+        Worst Case:O(n2)
+        Space Complexity: O(n)
+        Is stable: Yes
+        Type: Linear
+    Radix Sort:
+        Best Case: O(dn)
+        Average Case: O(dn)
+        Worst Case: O(dn)
+        Space Complexity:O(d+n)
+        Is stable: Yes
+        Type: Linear
+        Bucket sort is stable, if the underlying
+    sorting algorithm is stable.
+    Radix sort is stable, if the underlying
+    sorting algorithm is stable.
